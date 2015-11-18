@@ -1,7 +1,7 @@
 var myApp = angular.module('myApp', []);
 
 myApp.controller('APIController', ['$scope', '$http', function($scope, $http) {
-    var apikey = "ca5d63fdb921e2570069eb8267389c4a9260227a";
+    var apikey = "3ab8967d07caf3cc7fcf420937eb687fd8fe09b5";
     var baseUrl = "http://www.giantbomb.com/api";
 
     // construct our URL

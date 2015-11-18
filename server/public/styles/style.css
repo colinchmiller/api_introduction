@@ -1,0 +1,16 @@
+.batman {
+    height: 300px;
+    margin: 10px;
+    background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQ15JnQ33GAq_oZ4ggvrkTHnkaxpkWk6UNh8SoUqYwlmMnbMlwSfUr8p5T");
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+p {
+    font-weight: bold;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
